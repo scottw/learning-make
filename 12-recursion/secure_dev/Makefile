@@ -1,4 +1,4 @@
-.PHONY: build clean test
+.PHONY: clean test
 
 SRCDIR = src
 SRC    = $(SRCDIR)/secure_dev
