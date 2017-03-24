@@ -4,7 +4,7 @@ Make[1] is the developer's equivalent of Batman's grappling hook. It always work
 
 ## About This Repo
 
-This repository contains the source material for a training on GNU Make. [Slideshow here](https://scottw.github.io/presentations/).
+This repository contains the source material for a training on GNU Make. [Slideshow here](https://scottw.github.io/presentations/learning-make/).
 
 ## What is Make For?
 
