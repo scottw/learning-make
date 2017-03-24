@@ -9,4 +9,4 @@ $(HTMLDOC): $(INPUTS)
 	md2html -i index.md -o $(HTMLDOC)
 
 clean:
-	@rm $(HTMLDOC)
+	@-rm $(HTMLDOC)
