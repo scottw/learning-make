@@ -2,6 +2,10 @@
 
 Make[1] is the developer's equivalent of Batman's grappling hook. It always works, and gets you from A to B really fast. It is also used to take down bad guys and is often used for things well outside of its original use cases.
 
+## About This Repo
+
+This repository contains the source material for a training on GNU Make. [Slideshow here](https://scottw.github.io/presentations/).
+
 ## What is Make For?
 
 Make was written for building C programs originally, but is general purpose enough to abuse for many other uses.
